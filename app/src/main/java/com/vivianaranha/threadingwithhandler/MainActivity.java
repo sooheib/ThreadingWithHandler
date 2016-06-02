@@ -40,7 +40,6 @@ public class MainActivity extends AppCompatActivity {
                     progessBar.setVisibility(View.GONE);
                     button.setVisibility(View.VISIBLE);
                 }
-
             }
         };
 
